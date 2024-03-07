@@ -1,0 +1,17 @@
+.course {
+  width: 350px;
+}
+.courseDiv {
+  margin: 10px;
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: -3px 2px 12px 0px rgb(141, 129, 129);
+}
+.courseDiv:hover{
+    box-shadow: -4px 4px 13px 2px rgb(88, 102, 94);
+    
+}
+.courseDiv:active{
+    box-shadow: -4px 4px 13px 2px rgb(194, 40, 40);
+}
